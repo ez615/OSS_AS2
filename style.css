@@ -6,5 +6,5 @@ body {
   padding: 10px;
 }
 .navbar {
-  margin: 0px;
+  margin: 0px !important;
 }
