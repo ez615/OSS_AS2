@@ -1,10 +1,7 @@
 .text-center {
   margin: 20px;
 }
-body {
+#wrapper {
   margin: 20px;
   padding: 10px;
-}
-.navbar {
-  margin: 0px !important;
 }
