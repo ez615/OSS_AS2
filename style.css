@@ -18,3 +18,7 @@ img {
 body {
   background: black;
 }
+
+#subtitle {
+  margin: 10px;
+}
